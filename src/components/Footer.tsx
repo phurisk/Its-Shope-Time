@@ -8,7 +8,7 @@ export default function Footer() {
           {/* Logo and Description */}
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-            <img src="public/images/Sheop_time_logo2.png" alt="Logo" className="w-12 bg-white rounded-full" />
+            <img src="/images/Sheop_time_logo2.png" alt="Logo" className="w-12 bg-white rounded-full" />
               <span className="text-xl font-bold">
                 It's Shopee Time
               </span>

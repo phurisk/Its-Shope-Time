@@ -7,7 +7,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <img src="public/images/Sheop_time_logo2.png" alt="Logo" className="w-12" />
+            <img src="/images/Sheop_time_logo2.png" alt="Logo" className="w-12" />
             <span className="text-xl font-bold text-primary-blue">
               It's Shopee Time
             </span>
