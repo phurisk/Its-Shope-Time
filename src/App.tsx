@@ -6,7 +6,7 @@ import ValuePropositionSection from '@/components/ValuePropositionSection';
 import ReviewsSection from '@/components/ReviewsSection';
 import Footer from '@/components/Footer';
 
-export default function Home() {
+function App() {
   return (
     <main className="min-h-screen bg-background-white">
       <Header />
@@ -19,3 +19,5 @@ export default function Home() {
     </main>
   );
 }
+
+export default App;
